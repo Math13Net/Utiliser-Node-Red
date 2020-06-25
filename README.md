@@ -7,7 +7,7 @@ UNDER CONSTRUCTION
 
 ## ❤️ [site avec exemples](#site_exemple)
 
-## 🚀 [vidéo avec exemples](#vidéo_exemple)
+## 🚀 [vidéo avec exemples](#video_exemple)
 
 ## 📢 [livre avec exemples](#livre_exemple)
 
