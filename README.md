@@ -21,10 +21,8 @@ Apprendre à utliser Node Red en partant de zéro !
 ------------------------------------------------------------------------------------------------
 
 ## <a name="site"></a> 🌈 sites incontournables
-* ### [the official RaspberryPi](https://www.raspberrypi.org/) : excellent site - beaucoup de matériels ré-exploitables
-* ### [documentation raspberry pi](https://www.raspberrypi.org/documentation/)
-* ### [RaspberryPi France](https://www.raspberrypi-france.fr/) : nettement moins bien
-* ### [pimylifeup](https://pimylifeup.com/)
+* ### [the official Node-Red site](https://nodered.org/) : le site de référence - un peu bref pour démarrer
+* ### [premiers exemples intéressnats](http://noderedguide.com/)
 
 ------------------------------------------------------------------------------------------------
 
