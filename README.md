@@ -1,5 +1,5 @@
-# Utiliser-son-Raspberry-Pi
-Apprendre à utliser un Raspberry Pi en partant de zéro !
+# Utiliser-Node-Red (avec son-Raspberry-Pi 4)
+Apprendre à utliser Node Red en partant de zéro !
 
 
 ## 🌈 [site](#site)
