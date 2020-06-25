@@ -1,4 +1,4 @@
-# Utiliser-Node-Red (avec son-Raspberry-Pi 4)
+# Utiliser-Node-Red (avec son-Raspberry-Pi 4 pourquoi pas ?!)
 Apprendre à utliser Node Red en partant de zéro !
 
 UNDER CONSTRUCTION
@@ -36,8 +36,8 @@ UNDER CONSTRUCTION
 ------------------------------------------------------------------------------------------------
 
 ## <a name="video_exemple"></a> ❤️ des vidéos bien construites pour comprendre (doucement) comment utiliser node-red !
-* ### [hello world](https://helloworld.raspberrypi.org/) : un magasine gratuit intéressant
-* ### [magi pi](https://www.framboise314.fr/publications-revues-magazines-livres-e-books-et-articles-sur-le-raspberry-pi/the-magpi/) : tous les numéros de magpi en pdf gratuits - contient aussi des pfds de résumés excellents (commandes en lignes, python pour les jeux, hacking, ...)
+* ### [tuto init - françois riotte](https://www.youtube.com/watch?v=etvfGr7nEL8&t=3s)
+* ### [tuto begin et plus - NotEnoughTECH](https://www.youtube.com/watch?v=AGMNEEQWEhQ&list=PLDoIcTNj_voXjx4nR_oXpZg1aiPytNgzC)
 
 
 ------------------------------------------------------------------------------------------------
