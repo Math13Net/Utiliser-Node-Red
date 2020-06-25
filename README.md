@@ -8,7 +8,7 @@ Apprendre à utliser Node Red en partant de zéro !
 
 ## 🚀 [vidéos avec exemples](#vidéo_exemple)
 
-## 📢 [astuce](#astuce)
+## 📢 [lives avec exemples](#livre_exemple)
 
 ## 🌐 [pour aller plus loin](#loin)
 
@@ -31,7 +31,12 @@ Apprendre à utliser Node Red en partant de zéro !
 * ### [magi pi](https://www.framboise314.fr/publications-revues-magazines-livres-e-books-et-articles-sur-le-raspberry-pi/the-magpi/) : tous les numéros de magpi en pdf gratuits - contient aussi des pfds de résumés excellents (commandes en lignes, python pour les jeux, hacking, ...)
 * ### [Raspberry Pi CookBook](http://shop.oreilly.com/product/0636920196372.do)
 
+------------------------------------------------------------------------------------------------
 
+## <a name="livre_exemple"></a> ❤️ livre intéressants sur Node-Red !
+* ### [hello world](https://helloworld.raspberrypi.org/) : un magasine gratuit intéressant
+* ### [magi pi](https://www.framboise314.fr/publications-revues-magazines-livres-e-books-et-articles-sur-le-raspberry-pi/the-magpi/) : tous les numéros de magpi en pdf gratuits - contient aussi des pfds de résumés excellents (commandes en lignes, python pour les jeux, hacking, ...)
+* ### [Raspberry Pi CookBook](http://shop.oreilly.com/product/0636920196372.do)
 
 
 
