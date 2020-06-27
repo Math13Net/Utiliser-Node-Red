@@ -36,7 +36,7 @@ UNDER CONSTRUCTION
 ------------------------------------------------------------------------------------------------
 
 ## <a name="video_exemple"></a> ❤️ des vidéos bien construites pour comprendre (doucement) comment utiliser node-red !
-* ### [tuto init - françois riotte](https://www.youtube.com/watch?v=etvfGr7nEL8&t=3s)
+* ### [tuto init - françois riotte](https://www.youtube.com/watch?v=etvfGr7nEL8&t=3s) *
 * ### [tuto begin et plus - NotEnoughTECH](https://www.youtube.com/watch?v=AGMNEEQWEhQ&list=PLDoIcTNj_voXjx4nR_oXpZg1aiPytNgzC)
 
 
