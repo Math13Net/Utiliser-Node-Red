@@ -40,6 +40,7 @@ UNDER CONSTRUCTION
 * ### [tuto init - françois riotte](https://www.youtube.com/watch?v=etvfGr7nEL8&t=3s) *
 * ### [tuto begin et plus - NotEnoughTECH](https://www.youtube.com/watch?v=AGMNEEQWEhQ&list=PLDoIcTNj_voXjx4nR_oXpZg1aiPytNgzC)
 * ### [tuto begin et plus - Opto Video](https://www.youtube.com/watch?v=3AR432bguOY)
+* ### [intro to node-red - steve video](https://www.youtube.com/watch?v=eZUSQ1y6kSM&list=PLk0D2S-fqJ7YvR1wrpl8A4mhtBbYOlsE4)
 
 
 ------------------------------------------------------------------------------------------------
