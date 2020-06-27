@@ -13,7 +13,7 @@ UNDER CONSTRUCTION
 
 ## 🌐 [pour aller plus loin](#loin)
 
-## 🔱 [mes mini-miniprojet](#mini_projet)
+## 🔱 [mes mini-projets](#mini_projet)
 
 ## 👷 [projet](#projet)
 
