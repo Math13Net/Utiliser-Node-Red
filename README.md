@@ -52,5 +52,5 @@ UNDER CONSTRUCTION
 ------------------------------------------------------------------------------------------------
 
 ## <a name="mini_projet"></a> ❤️ les minis projets qui m'ont permis de comprendre !
-* ### [Conversion de Fahrenheit en Celsius](https://www.amazon.fr/20-Easy-Raspberry-Pi-Projects-ebook/dp/B072SRG17P)
+* ### [Conversion de Fahrenheit en Celsius](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/conversion_F_C.json)
 
