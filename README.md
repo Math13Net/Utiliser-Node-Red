@@ -31,6 +31,7 @@ UNDER CONSTRUCTION
 
 ## <a name="site_exemple"></a> ❤️ des exemples précis pour s'amuser avec Node-Red !
 * ### [un projet d'initiation - raspberrypi.org](https://projects.raspberrypi.org/en/projects/getting-started-with-node-red)
+* ### [intro to node-red - steve site](http://www.steves-internet-guide.com/node-red-overview/)
 
 
 ------------------------------------------------------------------------------------------------
@@ -38,6 +39,7 @@ UNDER CONSTRUCTION
 ## <a name="video_exemple"></a> ❤️ des vidéos bien construites pour comprendre (doucement) comment utiliser node-red !
 * ### [tuto init - françois riotte](https://www.youtube.com/watch?v=etvfGr7nEL8&t=3s) *
 * ### [tuto begin et plus - NotEnoughTECH](https://www.youtube.com/watch?v=AGMNEEQWEhQ&list=PLDoIcTNj_voXjx4nR_oXpZg1aiPytNgzC)
+* ### [tuto begin et plus - Opto Video](https://www.youtube.com/watch?v=3AR432bguOY)
 
 
 ------------------------------------------------------------------------------------------------
