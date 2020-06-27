@@ -21,7 +21,7 @@ UNDER CONSTRUCTION
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="site_offciel"></a> 🌈 sites incontournables
+## <a name="site_officiel"></a> 🌈 sites incontournables
 * ### [the official Node-Red site](https://nodered.org/) : le site de référence - un peu bref pour démarrer
 * ### [premiers exemples intéressants](http://noderedguide.com/)
 * ### [compléments techniques](http://webge.dyndns-server.com/dokuwiki/doku.php?id=raspberrypi:linux:nodered)
