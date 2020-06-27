@@ -13,7 +13,7 @@ UNDER CONSTRUCTION
 
 ## 🌐 [pour aller plus loin](#loin)
 
-## 🔱 [miniprojet](#miniprojet)
+## 🔱 [mes mini-miniprojet](#mini_projet)
 
 ## 👷 [projet](#projet)
 
@@ -49,5 +49,8 @@ UNDER CONSTRUCTION
 * ### [20 easy raspberry pi project](https://www.amazon.fr/20-Easy-Raspberry-Pi-Projects-ebook/dp/B072SRG17P)
 * ### [programming with node-red](https://www.elektormagazine.com/news/review-programming-node-red)
 
+------------------------------------------------------------------------------------------------
 
+## <a name="mini_projet"></a> ❤️ les minis projets qui m'ont permis de comprendre !
+* ### [Conversion de Fahrenheit en Celsius](https://www.amazon.fr/20-Easy-Raspberry-Pi-Projects-ebook/dp/B072SRG17P)
 
