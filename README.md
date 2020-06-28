@@ -23,7 +23,7 @@ UNDER CONSTRUCTION
 
 ## <a name="site_officiel"></a> 🌈 sites incontournables
 * ### [the official Node-Red site](https://nodered.org/) : le site de référence - un peu bref pour démarrer
-* ### [premiers exemples intéressants](http://noderedguide.com/)
+* ### [la bible avec des exemples](http://noderedguide.com/)
 * ### [compléments techniques](http://webge.dyndns-server.com/dokuwiki/doku.php?id=raspberrypi:linux:nodered)
 * ### [Raspberry Pi CookBook](http://shop.oreilly.com/product/0636920196372.do)
 
