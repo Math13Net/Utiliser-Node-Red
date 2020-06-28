@@ -1,0 +1,108 @@
+[
+    {
+        "id": "76a30c22.c4e664",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "72c48cd9.95eae4",
+        "type": "inject",
+        "z": "76a30c22.c4e664",
+        "name": "",
+        "topic": "x",
+        "payload": "10",
+        "payloadType": "num",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "x": 110,
+        "y": 180,
+        "wires": [
+            [
+                "a4706dbb.15cc5"
+            ]
+        ]
+    },
+    {
+        "id": "8b0ac7b8.051788",
+        "type": "inject",
+        "z": "76a30c22.c4e664",
+        "name": "",
+        "topic": "y",
+        "payload": "30",
+        "payloadType": "num",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "x": 110,
+        "y": 240,
+        "wires": [
+            [
+                "a4706dbb.15cc5"
+            ]
+        ]
+    },
+    {
+        "id": "3aadbc9d.807134",
+        "type": "debug",
+        "z": "76a30c22.c4e664",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "x": 650,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "a0dc491.53aceb8",
+        "type": "function",
+        "z": "76a30c22.c4e664",
+        "name": "f(x,y)=2*x*y-1",
+        "func": "return {payload : (2*msg.payload.x*msg.payload.y-1)};",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 460,
+        "y": 220,
+        "wires": [
+            [
+                "3aadbc9d.807134"
+            ]
+        ]
+    },
+    {
+        "id": "a4706dbb.15cc5",
+        "type": "join",
+        "z": "76a30c22.c4e664",
+        "name": "",
+        "mode": "custom",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": true,
+        "timeout": "",
+        "count": "2",
+        "reduceRight": false,
+        "reduceExp": "",
+        "reduceInit": "",
+        "reduceInitType": "",
+        "reduceFixup": "",
+        "x": 290,
+        "y": 220,
+        "wires": [
+            [
+                "a0dc491.53aceb8"
+            ]
+        ]
+    }
+]
