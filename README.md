@@ -53,5 +53,5 @@ UNDER CONSTRUCTION
 
 ## <a name="mini_projet"></a> ❤️ les minis projets qui m'ont permis de comprendre !
 * ### [Conversion de Fahrenheit en Celsius](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/conversion_F_C.json)
-* ### [Une fonction à " entrées et 3 sorties](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/fonction_3entree_3sortie.json)
+* ### [Une fonction à 3 entrées et 3 sorties](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/fonction_3entree_3sortie.json)
 
