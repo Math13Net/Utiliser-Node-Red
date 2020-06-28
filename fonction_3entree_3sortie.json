@@ -1,0 +1,136 @@
+[
+    {
+        "id": "76a30c22.c4e664",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "6e1d53c5.7a601c",
+        "type": "function",
+        "z": "76a30c22.c4e664",
+        "name": "conversion",
+        "func": "var conv = msg.topic\nif(conv == \"one\")\n{\nvar msg1 = {payload: \"First node clicked\"};\nreturn [msg1,null,null];\n}\nelse if(conv == \"two\")\n{\nvar msg2 = {payload: \"Second node clicked\"};\nreturn [null,msg2,null];\n}\nelse if(conv == \"three\")\n{\nvar msg3 = {payload: \"Third node clicked\"};\nreturn [null,null,msg3];\n}",
+        "outputs": 3,
+        "noerr": 0,
+        "x": 410,
+        "y": 240,
+        "wires": [
+            [
+                "2cea7798.71f2e8"
+            ],
+            [
+                "c7bb9434.9efbe8"
+            ],
+            [
+                "71a703bd.72762c"
+            ]
+        ]
+    },
+    {
+        "id": "2cea7798.71f2e8",
+        "type": "debug",
+        "z": "76a30c22.c4e664",
+        "name": "Debug_1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "x": 660,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "c7bb9434.9efbe8",
+        "type": "debug",
+        "z": "76a30c22.c4e664",
+        "name": "Debug_2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "x": 660,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "71a703bd.72762c",
+        "type": "debug",
+        "z": "76a30c22.c4e664",
+        "name": "Debug_3",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "x": 660,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "72c48cd9.95eae4",
+        "type": "inject",
+        "z": "76a30c22.c4e664",
+        "name": "First",
+        "topic": "one",
+        "payload": "",
+        "payloadType": "date",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "x": 150,
+        "y": 160,
+        "wires": [
+            [
+                "6e1d53c5.7a601c"
+            ]
+        ]
+    },
+    {
+        "id": "8b0ac7b8.051788",
+        "type": "inject",
+        "z": "76a30c22.c4e664",
+        "name": "Second",
+        "topic": "two",
+        "payload": "",
+        "payloadType": "date",
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "x": 160,
+        "y": 240,
+        "wires": [
+            [
+                "6e1d53c5.7a601c"
+            ]
+        ]
+    },
+    {
+        "id": "5be8c5c2.4fabdc",
+        "type": "inject",
+        "z": "76a30c22.c4e664",
+        "name": "Third",
+        "topic": "three",
+        "payload": "",
+        "payloadType": "date",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "x": 150,
+        "y": 320,
+        "wires": [
+            [
+                "6e1d53c5.7a601c"
+            ]
+        ]
+    }
+]
