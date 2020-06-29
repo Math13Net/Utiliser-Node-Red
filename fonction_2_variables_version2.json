@@ -1,0 +1,144 @@
+[
+    {
+        "id": "76a30c22.c4e664",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "72df51e.e6fe6b",
+        "type": "inject",
+        "z": "76a30c22.c4e664",
+        "name": "",
+        "topic": "",
+        "payload": "2",
+        "payloadType": "num",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "x": 110,
+        "y": 220,
+        "wires": [
+            [
+                "9e4fdbf3.6199d8"
+            ]
+        ]
+    },
+    {
+        "id": "601de9b3.460a28",
+        "type": "inject",
+        "z": "76a30c22.c4e664",
+        "name": "",
+        "topic": "",
+        "payload": "1",
+        "payloadType": "num",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "x": 110,
+        "y": 260,
+        "wires": [
+            [
+                "99b8504d.0424d"
+            ]
+        ]
+    },
+    {
+        "id": "9e4fdbf3.6199d8",
+        "type": "change",
+        "z": "76a30c22.c4e664",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "var1",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 250,
+        "y": 220,
+        "wires": [
+            [
+                "50b6855e.78d99c"
+            ]
+        ]
+    },
+    {
+        "id": "50b6855e.78d99c",
+        "type": "change",
+        "z": "76a30c22.c4e664",
+        "name": "sum",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "$flowContext('var1')+$flowContext('var2')",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 470,
+        "y": 240,
+        "wires": [
+            [
+                "ef406443.837a98"
+            ]
+        ]
+    },
+    {
+        "id": "ef406443.837a98",
+        "type": "debug",
+        "z": "76a30c22.c4e664",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "x": 690,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "99b8504d.0424d",
+        "type": "change",
+        "z": "76a30c22.c4e664",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "var2",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 250,
+        "y": 260,
+        "wires": [
+            [
+                "50b6855e.78d99c"
+            ]
+        ]
+    }
+]
