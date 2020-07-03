@@ -11,11 +11,7 @@ UNDER CONSTRUCTION
 
 ## 📢 [livre avec exemples](#livre_exemple)
 
-## 🌐 [pour aller plus loin](#loin)
-
 ## 🔱 [mes mini-projets](#mini_projet)
-
-## 👷 [projet](#projet)
 
 
 ------------------------------------------------------------------------------------------------
@@ -36,7 +32,7 @@ UNDER CONSTRUCTION
 
 ------------------------------------------------------------------------------------------------
 
-## <a name="video_exemple"></a> ❤️ des vidéos bien construites pour comprendre (doucement) comment utiliser node-red !
+## <a name="video_exemple"></a> 🚀 des vidéos bien construites pour comprendre (doucement) comment utiliser node-red !
 * ### [tuto init - françois riotte](https://www.youtube.com/watch?v=etvfGr7nEL8&t=3s) *
 * ### [tuto begin et plus - NotEnoughTECH](https://www.youtube.com/watch?v=AGMNEEQWEhQ&list=PLDoIcTNj_voXjx4nR_oXpZg1aiPytNgzC)
 * ### [tuto begin et plus - Opto Video](https://www.youtube.com/watch?v=3AR432bguOY)
@@ -45,13 +41,13 @@ UNDER CONSTRUCTION
 
 ------------------------------------------------------------------------------------------------
 
-## <a name="livre_exemple"></a> ❤️ livre intéressants sur Node-Red !
+## <a name="livre_exemple"></a> 📢 livre intéressants sur Node-Red !
 * ### [20 easy raspberry pi project](https://www.amazon.fr/20-Easy-Raspberry-Pi-Projects-ebook/dp/B072SRG17P)
 * ### [programming with node-red](https://www.elektormagazine.com/news/review-programming-node-red)
 
 ------------------------------------------------------------------------------------------------
 
-## <a name="mini_projet"></a> ❤️ les minis projets qui m'ont permis de comprendre !
+## <a name="mini_projet"></a> 🔱 les minis projets qui m'ont permis de comprendre !
 * ### [Conversion de Fahrenheit en Celsius](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/conversion_F_C.json)
 * ### [Une fonction à 3 entrées et 3 sorties](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/fonction_3entree_3sortie.json)
 * ### [Une fonction à 2 variables](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/fonction_plusieurs_variables.json)
