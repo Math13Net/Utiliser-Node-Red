@@ -48,10 +48,10 @@ UNDER CONSTRUCTION
 ------------------------------------------------------------------------------------------------
 
 ## <a name="mini_projet"></a> 🔱 les minis projets qui m'ont permis de comprendre !
-* ### [Conversion de Fahrenheit en Celsius](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/conversion_F_C.json)
-* ### [Une fonction à 3 entrées et 3 sorties](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/fonction_3entree_3sortie.json)
-* ### [Une fonction à 2 variables](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/fonction_plusieurs_variables.json)
-* ### [Une fonction à 2 variables - version2](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/fonction_2_variables_version2.json)
+* ### [conversion de Fahrenheit en Celsius](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/conversion_F_C.json)
+* ### [1 fonction à 3 entrées et 3 sorties](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/fonction_3entree_3sortie.json)
+* ### [1 fonction à 2 variables](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/fonction_plusieurs_variables.json)
+* ### [1 fonction à 2 variables - version2](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/fonction_2_variables_version2.json)
 * ### [allumer une led pour son raspberry pi](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/led-raspberry.json)
 * ### [allumer un buzz via un mail et recevoir un mail de confirmation](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/mail%20-%20buzz%20-%20mail.json)
 
