@@ -56,4 +56,4 @@ UNDER CONSTRUCTION
 * ### [allumer un buzz via un mail et recevoir un mail de confirmation](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/mail%20-%20buzz%20-%20mail.json)
 * ### [piloter 4 leds par mail](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/4_led_par_mail.json)
 * ### [feu circulation 3 couleurs](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/feu_3_couleurs.json)
-
+* ### [intensité led par PWM](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/led_luminosite_pwm.json)
