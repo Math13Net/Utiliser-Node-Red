@@ -1,4 +1,4 @@
-# Utiliser-Node-Red (avec son-Raspberry-Pi 4 pourquoi pas ?!)
+# Utiliser-Node-Red (avec Raspberry-Pi 4)
 Apprendre à utliser Node Red en partant de zéro !
 
 UNDER CONSTRUCTION
