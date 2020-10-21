@@ -60,4 +60,5 @@ UNDER CONSTRUCTION
 * ### [mon premier message LDC](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/message_LDC.json)
 * ### [heure message LDC](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/time_ldc.json)
 * ### [temperature et humidité à Sarlat](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/T_H_LCD.json)
+* ### [dashboard cpu et disk](https://github.com/Math13Net/Utiliser-Node-Red/blob/master/cpu_disk.json)
 
